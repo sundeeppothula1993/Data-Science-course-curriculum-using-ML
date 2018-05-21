@@ -1,0 +1,71 @@
+resume = '''Master of Engineering student with focus on analytics. Proficient knowledge in statistics, mathematics and programming skills. 
+
+Education
+
+University of Toronto, Master of Engineering	 
+(2018 - Present)
+-	University of Toronto, Division of Mechanical and Industrial Engineering
+-	Relevant Courses: Intro to Data Science and Analytics, Data Analytics
+
+University of Toronto, Bachelor of Applied Science and Engineering                             
+(2012 - 2017)
+-	University of Toronto, Division of Mechanical Engineering
+-	Relevant Courses: Programming, Engineering Design, Digital Logic, Circuit, Statistics, Calculus, Physics, MATLAB, Engineering Analysis, Engineering Economics
+
+
+Technical Skill
+
+Programming:  Python, SQL, C, C++, MATLAB  
+Software and Applications:  IBM Watson, Microsoft Azure, Jupiter Notebook, Zeppelin Notebook, Microsoft Excel, Minitab
+
+Related Professional Experience	
+
+1.	Toronto Datathon Challenge Powered by Microsoft Azure
+(Feb, 2018)
+-	Tackled the problem to leverage advanced data analysis techniques to the Geotab datasets to hone risk analytics
+-	Performed data cleaning and data exploration on datasets provided by Geotab
+-	Utilized Google API to mine data to populate the dataset
+-	Created simple statistical models and visualized our results through heat maps 
+-	Codded with Python on Jupiter Notebook with support of Microsoft Azure
+
+2.	GitHub Repositories Classification Project - Course Project
+(Jan, 2018 ? Present)
+-	Performing text-mining techniques from GitHub.com to reuse GitHub artifact
+-	Utilizing both bag-of-words and bag-of-concepts with support of Random Forest algorithm for classification of database 
+-	Researching on short text classification based on Wikipedia and Word2vec
+-	Coding with SQL on Zeppelin Notebook 
+3.	Data Science Hot Topics and Course Design ? Course Project
+(Jan, 2018 ? Present)
+- 	Performing data mining and data cleaning from multiple websites through web-scrapping and web API
+- 	Identifying potential correlations through visualizations of datasets using Watson Analysis
+- 	Building models for hot topic decisions with Machine Learning techniques such as decision tree, K-Means Clustering etc.
+- 	Preparing business-oriented presentation slides and consulting report 
+- 	Coding with Python on Jupiter Notebook with support from Watson Analysis
+
+4.	University of Toronto Final Capstone Project - Wearable Motion Detection Device
+(Sep, 2016 ? May, 2017)
+- 	Designed a wearable device which assigns different hand gesture and motion to keys on keyboard for better gaming experience
+- 	Performed data mining and data cleaning from general hand gesture data collected with accelerometer and gyro sensors 
+- 	Built models based on K-Nearest Neighbor algorithm and Support Vector Machine to classify different hand gestures  
+- 	Created a user interface for easy setup for our product
+- 	Codded with Arduino and MATLAB for data analysis
+
+
+Related Work Experience
+
+1.	Magna Seating ? Professional Experience Year (PEY)                                                        
+(Aug, 2015 ? Aug, 2016)
+- 	Interned at Magna Seating as a product engineering intern
+- 	Collaborated with the manufacturing engineering team to directly gather data from manufacturing line
+- 	Utilized Minitab statistical software to track and analyze test data
+- 	Performed product quality test regularly to ensure design change meet client requirements
+- 	Assisted with multiple fixture design using CAD to reduce scrap and reduced scrap rate by 20%
+- 	Analyzed capability studies on production parts for design change 
+
+Volunteer & Leadership Experience 
+
+1.	Marketing Director at U of T Chinese Student and Scholars Association 
+(2013 ? 2017)
+-  	Participated in the First Year Guidebooks for freshman   
+-  	Managed the marketing team of around 30 people and organized advertising campaign 
+-  	Collaborated with other clubs and organized many activities, such as celebrating Chinese New Year at the Winter Garden Theater and Cruise Boat Ride. Both around 200 people   '''

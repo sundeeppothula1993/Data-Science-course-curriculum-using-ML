@@ -1,0 +1,54 @@
+Skills,count,type
+statistics,222,Technical Skills
+big data,204,Technical Skills
+database,185,Technical Skills
+cloud,153,Technical Skills
+machine learning,145,Technical Skills
+programming,98,Technical Skills
+data visualization,68,Technical Skills
+visualization,64,Technical Skills
+algorithms,49,Technical Skills
+predictive modeling,37,Technical Skills
+structured,33,Technical Skills
+regression,31,Technical Skills
+deep learning,16,Technical Skills
+unstructured,15,Technical Skills
+clustering,12,Technical Skills
+supervised,10,Technical Skills
+natural language processing,8,Technical Skills
+visualize,7,Technical Skills
+probability,6,Technical Skills
+unsupervised,5,Technical Skills
+ensemble,4,Technical Skills
+simulation,3,Technical Skills
+wrangling,1,Technical Skills
+sql,154,Coding Skills
+python,151,Coding Skills
+tableau,141,Coding Skills
+hadoop,65,Coding Skills
+r,30,Coding Skills
+sas,27,Coding Skills
+spark,27,Coding Skills
+hive,25,Coding Skills
+scala,21,Coding Skills
+java,20,Coding Skills
+hbase,7,Coding Skills
+alteryx,7,Coding Skills
+perl,6,Coding Skills
+ssrs,4,Coding Skills
+presto,4,Coding Skills
+ssas,3,Coding Skills
+pig,3,Coding Skills
+matlab,3,Coding Skills
+mongodb,2,Coding Skills
+redis,1,Coding Skills
+postgres,1,Coding Skills
+team,1854,Soft Skills
+communicate,207,Soft Skills
+consulting,180,Soft Skills
+creative,160,Soft Skills
+verbal,129,Soft Skills
+passion,105,Soft Skills
+interpersonal,104,Soft Skills
+speaking,27,Soft Skills
+soft skills,1,Soft Skills
