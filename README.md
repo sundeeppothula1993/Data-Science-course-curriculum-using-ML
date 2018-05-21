@@ -10,7 +10,9 @@ As such, this consultation Project for the University of Toronto focuses on desi
 
 (3) a managerial focused data science graduate program curriculum
 
+
 The objective of all three curriculums is to educate individuals to a strong level of job readiness in the field. Employability and marketability of graduating students is therefore a key consideration in all design choices.
+
 
 This repositry mainly consists of codes for:
 
