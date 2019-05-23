@@ -2,7 +2,7 @@
 
 As the use of data science and analytics spread across industries, demand for qualified individuals increases. The steps to becoming qualified as a data science professional, however, are not so clearly defined. Compared to a field such as law, data science as a study is in its infancy. Without the time (centuries in the case of law) to hone course curriculums or program structures, educators must move quickly to meet the growing demand.
 
-![GitHub Logo](https://honingds.com/wp-content/uploads/2019/03/data-science-course-training-in-Hyderabad-1024x576.png)
+![GitHub Logo](https://www.excelr.com/assets/admin/ckfinder/userfiles/images/news/Concepts%20(2).jpg)
 
 As such, this consultation Project for the University of Toronto focuses on designing the following:
 
