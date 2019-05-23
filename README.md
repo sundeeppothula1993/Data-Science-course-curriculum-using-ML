@@ -16,6 +16,8 @@ As such, this consultation Project for the University of Toronto focuses on desi
 The objective of all three curriculums is to educate individuals to a strong level of job readiness in the field. Employability and marketability of graduating students is therefore a key consideration in all design choices.
 
 
+![GitHub Logo](https://mhgbtcuwzn-2-flywheel.netdna-ssl.com/wp-content/uploads/2018/10/ibm-watson-inline-0.png)
+
 This repositry mainly consists of codes for:
 
 (1) Webscraping of Indeed, Analytics Vidya, Course era, University databases
